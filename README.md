@@ -10,7 +10,7 @@ Você pode utiliza-la agora! Acesse o link: https://calc-fofa.netlify.app/
 
 __Operações básicas:__ Soma, subtração, multiplicação e divisão 🧮
 
-__Suporte a parênteses e diversas formas de entrada:__ "2 * (9 + 3) / (10 / 100) * 12"  __OU__ " 2(9 + 3) / 10% * 12"? Não importa! Nossa calculadora entende e calcula na mesma forma.
+__Suporte a parênteses e diversas formas de entrada:__ "2 * (9 + 3) / (10 / 100) * 12"  __OU__ " 2(9 + 3) / 10% * 12"? Não importa! Nossa calculadora entende e calcula da mesma forma.
 
 __Prevenção de entradas erradas:__ Não tem como você errar! Impede operadores repetidos, múltiplos porcentagens, e até garante que o parêntese não se feche sem algo dentro. 😉
 
