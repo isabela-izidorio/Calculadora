@@ -1,4 +1,4 @@
-# 🧮 Calculadora de expressões numéricas
+# 🧮 Calculadora
 
 Essa é a calculadora mais fofa que você vai encontrar no GitHub! 😍🎀
 Sabe aquele tipo de projeto que é simples, mas essencial para consolidação do aprendizado? Pois é, essa é a nossa calc!
