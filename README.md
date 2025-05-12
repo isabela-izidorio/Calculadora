@@ -4,7 +4,7 @@ Essa é a calculadora mais fofa que você vai encontrar no GitHub! 😍🎀
 Sabe aquele tipo de projeto que é simples, mas essencial para consolidação do aprendizado? Pois é, essa é a nossa calc!
 Nesse projeto utilizei apenas HTML, CSS e JavaScript.
 
-Você pode utiliza-la agora! Acesse o link: https://calc-expressoes-numericas.netlify.app/
+Você pode utiliza-la agora! Acesse o link: https://calc-fofa.netlify.app/
 
 ### 🛠️ Funcionalidades
 
