@@ -1,0 +1,108 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Fredoka", sans-serif;
+
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    color: var(--black);
+}
+
+:root{
+    --bege-retro: #fcf6e6;
+    --black: #2f352d;
+    --highlight1: #6bb593;
+}
+
+body{
+    background: rgb(107,181,147);
+    background: radial-gradient(circle, rgba(107,181,147,1) 0%, rgba(252,246,230,1) 100%);
+}
+
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.calculator{
+    background-color: var(--bege-retro);
+    width: 100%;
+    max-width: 375px;
+    min-height: 640px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1.5rem;
+    overflow: hidden;
+    box-shadow: 8px 8px 0px 0px var(--black);
+    border: 4px solid var(--black);
+}
+
+.display{
+    min-height: 200px;
+    padding: 1.5rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex: 1 1 0%;
+}
+
+.display .input{
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+}
+
+.display .output{
+    width: 100%;
+    max-width: 100%;
+    overflow: auto;
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.display .operator,
+.display .brackets,
+.display .percent{
+    color: var(--highlight1);
+}
+
+.btns{
+    background-color: var(--highlight1);
+    padding: 1.5rem;
+    border-radius: 1.5rem 1.5rem 0 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-gap: 1rem;
+}
+
+.btns .btn{
+    position: relative;
+    height: 0;
+    padding-top: 100%;
+    background-color: var(--bege-retro);
+    border-radius: 1rem;
+    transition: 0.2s;
+    user-select: none;
+    box-shadow: 4px 4px 0px 0px var(--black);
+}
+
+.btns .btn span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5rem;
+}
+
+.btns .btn:active{
+    box-shadow: inset 0 0 3px var(--black);
+}
+
