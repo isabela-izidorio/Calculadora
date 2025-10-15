@@ -1,14 +1,14 @@
 # 🧮 Calculadora
 
-Essa é a calculadora mais fofa que você vai encontrar no GitHub! 😍🎀
-Sabe aquele tipo de projeto que é simples, mas essencial para consolidação do aprendizado? Pois é, essa é a nossa calc!
+Essa é a calculadora mais fofa do GitHub! 😍🎀
+Sabe aquele tipo de projeto que é simples, mas essencial para consolidação do aprendizado? Pois é, aqui está ele!
 Nesse projeto utilizei apenas HTML, CSS e JavaScript.
 
 Você pode utiliza-la agora! Acesse o link: https://calc-fofa.netlify.app/
 
 ### 🛠️ Funcionalidades
 
-__Operações básicas:__ Soma, subtração, multiplicação e divisão 🧮
+__Operações básicas:__ Soma, subtração, multiplicação e divisão
 
 __Suporte a parênteses e diversas formas de entrada:__ "2 * (9 + 3) / (10 / 100) * 12"  __OU__ " 2(9 + 3) / 10% * 12"? Não importa! Nossa calculadora entende e calcula da mesma forma.
 
