@@ -3,6 +3,7 @@
 Essa é a calculadora mais fofa do GitHub! 😍🎀
 
 Sabe aquele tipo de projeto que é simples, mas essencial para consolidação do aprendizado? Pois é, aqui está ele!
+
 Nesse projeto utilizei apenas HTML, CSS e JavaScript.
 
 Você pode utiliza-la agora! Acesse o link: https://calc-fofa.netlify.app/
