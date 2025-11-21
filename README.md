@@ -8,6 +8,8 @@ Nesse projeto utilizei apenas HTML, CSS e JavaScript.
 
 Você pode utiliza-la agora! Acesse o link: https://calc-fofa.netlify.app/
 
+<img width="683.6" height="401.6" alt="image" src="https://github.com/user-attachments/assets/21f08547-0f52-4a10-affd-14100c823a95" />
+
 ### 🛠️ Funcionalidades
 
 __Operações básicas:__ Soma, subtração, multiplicação e divisão
