@@ -136,7 +136,6 @@ function FormatScientific(value) {
 		}
 	}
 
-	// Como fallback, corta com slice (menos recomendado, mas garante o limite)
 	return value.toExponential(0).slice(0, 14);
 }
 
@@ -193,3 +192,4 @@ function PerpareInput(input) {
 
 	return preparedInput;
 }
+
