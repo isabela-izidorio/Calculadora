@@ -1,20 +1,34 @@
-# Calculadora
+# ✨ Cute Calculator | Calculadora fofa 
 
+A simple web-based calculator developed with HTML, CSS, and JavaScript, focused on practicing input handling, mathematical operations, and validation.
 
-Sabe aquele tipo de projeto que é simples, mas essencial para consolidação do aprendizado? Pois é, aqui está ele!
+> Study project | Projeto de estudo
 
-Nesse projeto utilizei apenas HTML, CSS e JavaScript.
+## Features | Funcionalidades
 
-Você pode utiliza-la agora! Acesse o link: https://calc-fofa.netlify.app/
+### Basic Operations | Operações Básicas
 
-<img width="683.6" height="401.6" alt="image" src="https://github.com/user-attachments/assets/21f08547-0f52-4a10-affd-14100c823a95" />
+- Addition, subtraction, multiplication, and division.
 
-### 🛠️ Funcionalidades
+### Input Support | Suporte a Entradas
 
-__Operações básicas:__ Soma, subtração, multiplicação e divisão
+- **Parentheses:** Supports expressions using parentheses.
+- **Flexible Input:** Accepts different forms of the same mathematical expression, such as:
+  - `2 * (9 + 3) / (10 / 100) * 12`
+  - `2(9 + 3) / 10% * 12`
 
-__Suporte a parênteses e diversas formas de entrada:__ <kbd>2 * (9 + 3) / (10 / 100) * 12</kbd> **OU** <kbd>2(9 + 3) / 10% * 12</kbd>? Não importa! Ela entende e calcula da mesma forma.
+### Input Validation | Validação de Entrada
 
-__Prevenção de entradas erradas:__ Não tem como errar! Impede operadores repetidos, múltiplos porcentagens, e até garante que o parêntese não se feche sem algo dentro.
+- **Invalid Inputs:** Prevents repeated operators and multiple percentage symbols.
+- **Parentheses:** Prevents invalid closing parentheses and ensures valid expressions.
+- **Error Prevention:** Validates user input before performing calculations.
 
-__Notação científica:__ Quando o número for muito grande, ela converte pra notação científica 📐
+### Scientific Notation | Notação Científica
+
+- **Large Numbers:** Converts very large results to scientific notation for better readability.
+
+## Demo | Demonstração
+
+<img width="479" height="281" alt="Calculator preview | Prévia da calculadora" src="https://github.com/user-attachments/assets/21f08547-0f52-4a10-affd-14100c823a95" />
+
+[Access the Calculator | Acessar a Calculadora](https://calc-fofa.netlify.app/)
